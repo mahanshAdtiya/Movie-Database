@@ -35,9 +35,6 @@ Run the project
 - [React Redux](https://react-redux.js.org/introduction/getting-started)
 - [React Navigation v6](https://reactnavigation.org/docs/getting-started)
 
-## Demo
-https://snack.expo.dev/@lightninghimanshu/movie-database-project-github
-
 ## Video Demo
 https://user-images.githubusercontent.com/31515736/145668161-84abb926-cca6-426b-8caa-6dbcf165d704.mp4
 
