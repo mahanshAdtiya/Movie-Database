@@ -43,4 +43,4 @@ https://user-images.githubusercontent.com/31515736/145668161-84abb926-cca6-426b-
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Email me at: lightninghimanshu86@gmail.com
+Email me at: singh.mahansh@gmail.com
